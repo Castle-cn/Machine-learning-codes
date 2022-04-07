@@ -6,6 +6,7 @@
 4. 决策树
 5. 朴素贝叶斯
 6. KNN
+
 欢迎大家批评指正!
 
 # README
@@ -16,4 +17,5 @@ This repository is main to store some pattern-recognition codes, which includes:
 4. Decision tree
 5. Naive Bayes model
 6. KNN
+
 welcome your help!
