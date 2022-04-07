@@ -1,5 +1,5 @@
 # 说明
-本仓库主要用于存储一些模式识别代码, 其中包括以下几种常见算法:
+本仓库主要用于存储一些机器学习算法代码, 其中包括以下几种常见算法:
 1. PCA  (已完成)
 2. Kmeans
 3. BP神经网络
@@ -10,7 +10,7 @@
 欢迎大家批评指正!
 
 # README
-This repository is main to store some pattern-recognition codes, which includes:
+This repository is main to store some machine-learning codes, which includes:
 1. PCA
 2. Kmeans
 3. BP neural network
