@@ -6,6 +6,7 @@
 4. 决策树
 5. 朴素贝叶斯
 6. KNN
+7. Apriori
 
 欢迎大家批评指正!
 
@@ -17,5 +18,6 @@ This repository is main to store some machine-learning codes, which includes:
 4. Decision tree
 5. Naive Bayes model
 6. KNN
+7. Apriori
 
 welcome your help!
